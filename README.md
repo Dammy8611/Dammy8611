@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Dammy8611!
+# 👋 Hi there, I’m Dtechy!
 
 🎓 **Student @ Ajayi Crowther University**  
 🔌 **Studying Electrical Engineering**  
