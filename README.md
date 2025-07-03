@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I’m Dammy8611!
 
-<!--
-**Dammy8611/Dammy8611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student @ Ajayi Crowther University**  
+🔌 **Studying Electrical Engineering**  
+🌍 Based in Nigeria
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Skills
+
+- **JavaScript** (my main love)
+- **React** & **Next.js**
+- Python (occasionally)
+
+---
+
+## 🛠️ Featured Project
+
+### [MORA](https://github.com/Dammy8611/MORA)  
+A feature-rich WhatsApp bot designed to make your messaging experience smarter and more productive.
+
+---
+
+## 🌱 On the Side...
+
+I’m always tinkering with new ideas and projects—stay tuned for updates as I bring more creations to life!
+
+---
+
+## 🌐 Connect with Me
+
+- Twitter: [@Dtechy78](https://twitter.com/Dtechy78)
+
+---
+
+## 😅 Fun Fact
+
+I tend to overdo things—perfectionist mode: always on!
+
+---
+
+> “Keep learning, keep building, and don’t be afraid to overdo it (sometimes)!”
